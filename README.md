@@ -119,6 +119,9 @@
 - [Simility](https://simility.com)
 - [MaxMind](https://www.maxmind.com)
 
+## Warehouse & Inventory Management 
+-[Veeqo](https://www.veeqo.com)
+
 ## Logging
 
 - [Log Entries](https://logentries.com)
@@ -163,3 +166,6 @@
 ## Visitor Recording
 
 - [HotJar](https://www.hotjar.com)
+
+
+
